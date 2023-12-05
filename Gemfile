@@ -72,3 +72,5 @@ gem 'react-rails'
 gem 'rubocop', '>= 1.0', '< 2.0'
 
 gem 'pg'
+
+gem 'rack-cors'
