@@ -77,7 +77,7 @@ To get a local copy up and running follow these simple example steps.
   - Navigate to where you want to paste the Repo folder;
   - Run the following commands
 ```
-git clone https://github.com/fatima-najafi/hello-rails-react.git
+git clone https://github.com/iankiema/hello-rails-react.git
 cd Hello-Rails-React
 ```
 
